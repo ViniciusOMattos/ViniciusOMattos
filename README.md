@@ -15,11 +15,17 @@
 
 <a>
 <img src="https://github.com/ViniciusOMattos/HTML-Web-Developer-Bootcamp/blob/main/instagram-landing-page/preview.gif?raw=true" align="center" height="150" width="250">  
+</a>
+
+<span>
+<img src="https://github.com/ViniciusOMattos/documentacao/raw/main/calculadora_preview.gif?raw=true" align="center" height="150" width="150"></span> 
 
 <span>
 <img src="https://github.com/ViniciusOMattos/HTML-Web-Developer-Bootcamp/blob/main/netflix-interface/img/preview03.png?raw=true" align="center" height="150" width="250"></span>  
 
-<span><img src="https://github.com/ViniciusOMattos/HTML-Web-Developer-Bootcamp/blob/main/netflix-interface/img/preview04.png?raw=true" align="center" height="150" width="250"></span>
+<span>
+<img src="https://github.com/ViniciusOMattos/HTML-Web-Developer-Bootcamp/blob/main/netflix-interface/img/preview04.png?raw=true" align="center" height="150" width="250"></span>
+
 
 </a>
 </div>
