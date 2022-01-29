@@ -23,8 +23,6 @@
 <span>
 <img src="https://github.com/ViniciusOMattos/HTML-Web-Developer-Bootcamp/blob/main/netflix-interface/img/preview04.png?raw=true" align="center" height="150" width="250"></span>
 
-<span>
-<img src="https://github.com/ViniciusOMattos/documentacao/raw/main/calculadora_preview.gif?raw=true" align="center" height="150" width="150"></span> 
 
 <span>
 <img src="https://github.com/ViniciusOMattos/HTML-Web-Developer-Bootcamp/blob/main/snake-game/preview.gif?raw=true?raw=true" align="center" height="150" width="150"></span> 
